@@ -1,3 +1,5 @@
+CityBike is a company that rents Bikes to their 'customers' or 'subscribers' to travel across cities.
+
 **Project Structure**
 
 This is a Tableau only Project so you will find only 2 files.
