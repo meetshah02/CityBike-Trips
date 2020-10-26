@@ -1,4 +1,6 @@
-CityBike is a company that rents Bikes to their 'customers' or 'subscribers' to travel across cities.
+**CityBike is a company that rents Bikes to their 'customers' or 'subscribers' to travel across cities.**
+
+
 
 **Project Structure**
 
